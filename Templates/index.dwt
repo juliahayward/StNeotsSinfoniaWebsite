@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/SinfoniaStyles.css" rel="stylesheet" type="text/css" /><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColHybRtHdr #sidebar1 { padding-top: 30px; }
+.twoColHybRtHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it may need to avoid several bugs */
+</style>
+<![endif]-->
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body class="twoColHybRtHdr">
+
+<div id="container">
+  <div id="header">
+    <ul id="sinfonia_menu" class="MenuBarHorizontal">
+      <li><a href="../index.html">home</a>      </li>
+      <li><a href="#">concerts</a></li>
+      <li><a href="#">pictures</a>      </li>
+      <li><a href="#">about</a></li>
+    </ul>
+  </div>
+  <div id="sidebar1">
+    <h3>Join In</h3>
+    <p>Come along to our next concert to listen to good music and share the warm enthusiastic atmosphere of the Sinfonia. </p>
+    <p>If you'd like to play with us, we sometimes have vacancies for new players of a good standard.</p>
+    <p>The picture shows the Orchestra and St Neots Choral Society Choir in St Mary's Church at a recent concert.</p>
+  <!-- end #sidebar1 --></div>
+  <img src="../images/view.jpg" alt="St Neots Sinfonia and Choral Society" width="416" height="260" align="left" class="fltlft" />
+  <div id="mainContent">
+    <h1><u>St Neots Sinfonia</u></h1>
+    <h2>Who are we?</h2>
+    <p>We are the community orchestra of St Neots serving the area of South-West Cambridgeshire and Eastern Bedfordshire. We were founded in 1989 with the mission to enable local musicians to have fun playing in an orchestra and to perform public concerts of popular works several times a year for local music lovers.</p>
+    <p>Our conductor is Reginald Searle, who graduated from the Royal School of Music in 1963. He has now retired and this has allowed him to concentrate on writing more music. St Neots Sinfonia has premiered several of his works.</p>
+    <h2>What do we do?</h2>
+    <p>We perform public concerts, generally five times a year. Typically three of the concerts are orchestral concertd, one is a concert in partnership with the St Neots Choral Society, and one is a family Christmas concert.</p>
+    <p>We generally perform well known popular classical works, but try to include one new or unusual piece in each concert.</p>
+  <!-- end #mainContent --></div>
+  <br class="clearfloat" />
+  <div id="footer">
+    <p align="center">St Neots Sinfonia, registered charity #12345678, Registered in England</p>
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("sinfonia_menu", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+</html>
